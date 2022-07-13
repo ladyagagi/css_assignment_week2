@@ -60,6 +60,8 @@ small{
 }
 
 .hero img{
+    object-fit: cover;
+    object-position: 15% 10%;
     width: 90%;
     height: 200px;
     background-color: gray;
