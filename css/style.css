@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Roboto';
-    src: url(/fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+    src: url(/css_assignment_week2/fonts/Roboto/Roboto-Regular.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Roboto ItalicThin';
-    src: url(https://github.com/ladyagagi/css_assignment_week2/blob/master/fonts/Roboto/Roboto-ThinItalic.ttf?raw=true) format('truetype');
+    src: url(/css_assignment_week2/fonts/Roboto/Roboto-ThinItalic.ttf) format('truetype');
 }
 
 
