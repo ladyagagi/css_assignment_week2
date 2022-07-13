@@ -5,8 +5,10 @@
 
 @font-face {
     font-family: 'Roboto ItalicThin';
-    src: url(/fonts/Roboto/Roboto-ThinItalic.ttf) format('truetype');
+    src: url(https://github.com/ladyagagi/css_assignment_week2/blob/master/fonts/Roboto/Roboto-ThinItalic.ttf?raw=true) format('truetype');
 }
+
+
 
 * {
     box-sizing: border-box;
