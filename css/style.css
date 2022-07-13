@@ -149,7 +149,7 @@ blockquote{
 }
 blockquote p{
     text-align: end;
-    font-size: smaller;
+    font-size: 10px;
 }
 
 .call-to-action-section{
