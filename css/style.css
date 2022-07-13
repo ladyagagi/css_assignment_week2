@@ -64,7 +64,7 @@ small{
     object-position: 15% 10%;
     width: 90%;
     height: 200px;
-    background-color: gray;
+    border-radius: 8px;
 }
 
 
